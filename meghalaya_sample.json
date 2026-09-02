@@ -1,0 +1,1545 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-09-01T16:26:05Z",
+    "timestamp_areas_base": "2026-08-31T18:31:53Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1375751934,
+      "lat": 25.5679611,
+      "lon": 91.8807062,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Main road, Near Shillong cantonment Board Office/ Near Lady Hydari Park, Laban, Lachumiere",
+        "addr:postcode": "793001",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Mylliem",
+        "amenity": "hospital",
+        "contact:phone": "0364 - 2223889",
+        "description": "District Hospital",
+        "emergency": "yes",
+        "name": "Civil Hospital Shillong",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4869717739,
+      "lat": 25.7556131,
+      "lon": 91.8856792,
+      "tags": {
+        "addr:street": "Umsning Nongthymmai",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Bethany Hospital Outreach OPD Services",
+        "operator": "Bethany"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4871891718,
+      "lat": 25.909543,
+      "lon": 91.8768375,
+      "tags": {
+        "addr:district": "Ri Bhoi",
+        "addr:full": "Near Post Office Nongpoh, Nongpoh Proper, G.S Road",
+        "addr:postcode": "793102",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Umling",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Nongpoh Civil Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6908213058,
+      "lat": 25.5771305,
+      "lon": 91.8662676,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Jhalupara, Upper Mawprem",
+        "addr:postcode": "793002",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "R.P. Chest Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909772443,
+      "lat": 25.5147491,
+      "lon": 90.2037942,
+      "tags": {
+        "addr:district": "West Garo Hills",
+        "addr:full": "Near Der Mile Petrol Pump, Der Mile, Tetengkol Araimile road",
+        "addr:postcode": "794101",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Rongram",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Tura Civil Hospital(DH)",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6909772449,
+      "lat": 25.584894,
+      "lon": 91.8751504,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Jaiaw Main Road, Jaiaw Main Road, Shillong",
+        "addr:postcode": "793002",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Mylliem",
+        "amenity": "hospital",
+        "name": "Dr. H. Gordon Robert Hospital (Khasi-Jaintia Presbyterian)",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911715919,
+      "lat": 25.5195842,
+      "lon": 91.2681726,
+      "tags": {
+        "addr:district": "West Khasi Hills",
+        "addr:full": "Mawiaban, Nongstoin",
+        "addr:postcode": "793119",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Nongstoin District Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6969705853,
+      "lat": 25.5608599,
+      "lon": 91.911378,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Near Holy Child Road & Meghalaya Transport Commissioner Office, Demthring, Lum Sohra, Sawlad",
+        "addr:postcode": "793021",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Mylliem",
+        "amenity": "hospital",
+        "contact:phone": "0364 - 2537211",
+        "healthcare": "hospital",
+        "name": "Supercare Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6969819078,
+      "lat": 25.5658671,
+      "lon": 91.9112432,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Near State Bank of India & St. John's School, Pohkseh, Shillong, Pohkseh Road",
+        "addr:postcode": "793014",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Mylliem",
+        "amenity": "hospital",
+        "contact:phone": "0364 - 2535061",
+        "healthcare": "hospital",
+        "name": "The Children's Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660278,
+      "lat": 25.5179517,
+      "lon": 90.1704141,
+      "tags": {
+        "addr:district": "West Garo Hills",
+        "addr:full": "Near Dakopgre Catholic Church, Walbakgre, Tura Walbakgre Road",
+        "addr:postcode": "794101",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Rongram",
+        "amenity": "hospital",
+        "name": "Holy Cross Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660279,
+      "lat": 25.556393,
+      "lon": 91.2290792,
+      "tags": {
+        "addr:district": "West Khasi Hills",
+        "addr:full": "Nearing Shillong-Tura bypass road, Mawiawban, Nongstoin-Riangdo road",
+        "addr:postcode": "793119",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Nongstoin",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Nongstoin Civil Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660288,
+      "lat": 25.1987267,
+      "lon": 90.6309637,
+      "tags": {
+        "addr:district": "South Garo Hills",
+        "addr:full": "Near District Medical & Health Office, Asim Chiring, Baghmara",
+        "addr:postcode": "794102",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Baghmara",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Capt. Williamson Memorial Hospital, Baghmara",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660298,
+      "lat": 25.560466,
+      "lon": 91.6307355,
+      "tags": {
+        "addr:district": "West Khasi Hills",
+        "addr:full": "Near old Shillong-Nongstoin road, Lum Iew, Mairang",
+        "addr:postcode": "793120",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Mairang",
+        "amenity": "hospital",
+        "name": "Holy Cross Private Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660307,
+      "lat": 25.444011,
+      "lon": 92.198903,
+      "tags": {
+        "addr:district": "West Jaintia Hills",
+        "addr:full": "Near Thomas Jones Synod College, Moosalynkat",
+        "addr:postcode": "793150",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Thadlaskein",
+        "amenity": "hospital",
+        "name": "Dr. Norman Tunnel Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660313,
+      "lat": 25.514655,
+      "lon": 90.219953,
+      "tags": {
+        "addr:district": "West Garo Hills",
+        "addr:full": "Near District Medical & Health Officer's office, Lower Babupara, Lower Babupara Road",
+        "addr:postcode": "794001",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Rongram",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Tura Maternity and Child Hospital(SDH)",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660337,
+      "lat": 25.5541791,
+      "lon": 91.6330915,
+      "tags": {
+        "addr:district": "West Khasi Hills",
+        "addr:full": "Sangshong, Mairang",
+        "addr:postcode": "793120",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Mairang",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Tirot Sing Memorial Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660375,
+      "lat": 25.467945,
+      "lon": 92.260988,
+      "tags": {
+        "addr:district": "West Jaintia Hills",
+        "addr:full": "Ialong Village, Jowai Khliehriat Road",
+        "addr:postcode": "793150",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Thadlaskein",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Jowai Civil Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660381,
+      "lat": 25.5146304,
+      "lon": 90.6046435,
+      "tags": {
+        "addr:district": "East Garo Hills",
+        "addr:full": "Near PWD Road/Opp. Children Park, Medical Colony, Williamnagar",
+        "addr:postcode": "794111",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Samanda",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Williamnagar Civil Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7138660404,
+      "lat": 25.5762376,
+      "lon": 91.8666306,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Mawprem, Garikhana",
+        "addr:postcode": "793002",
+        "addr:state": "Meghalaya",
+        "addr:subdistrict": "Mylliem",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Reid Provincial Chest Hospital",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7150731765,
+      "lat": 25.721206,
+      "lon": 89.9047078,
+      "tags": {
+        "addr:district": "Dhubri",
+        "addr:full": "Hatsingimari, Near DC&#39; Office",
+        "addr:postcode": "783135",
+        "addr:state": "Assam",
+        "addr:subdistrict": "Mankachar",
+        "amenity": "hospital",
+        "name": "Civil Hospital, Hatsingimari",
+        "source": "OpenGovernmentData"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517041,
+      "lat": 25.2873638,
+      "lon": 92.0968584,
+      "tags": {
+        "addr:city": "Shillong",
+        "addr:district": "West Jaintia Hills",
+        "addr:full": "Umlarem, Meghalaya",
+        "addr:housenumber": "Amlarem",
+        "addr:postcode": "793109",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Rasongsli Nursing Home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517042,
+      "lat": 25.582507,
+      "lon": 91.9217576,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Mawarliang, Shillong, Meghalaya",
+        "addr:postcode": "793006",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "CAPF Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517043,
+      "lat": 25.592821,
+      "lon": 91.942756,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Mawdiangdiang, Meghalaya",
+        "addr:postcode": "793018",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Regional Cancer Centre",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517044,
+      "lat": 25.5958462,
+      "lon": 91.9474231,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Mawdiangdiang, Meghalaya",
+        "addr:postcode": "793018",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Ayurvedic & Homoeopathy Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517045,
+      "lat": 25.588019,
+      "lon": 91.913836,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Nongmynsong, Shillong, Meghalaya",
+        "addr:postcode": "793019",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Nigrimes Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517046,
+      "lat": 25.590552,
+      "lon": 91.910655,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Pynthorumkhrah, Shillong, Meghalaya",
+        "addr:postcode": "793019",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Composite Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517049,
+      "lat": 25.6789181,
+      "lon": 91.9094552,
+      "tags": {
+        "addr:district": "Ri-Bhoi",
+        "addr:full": "Sumer Village, Meghalaya",
+        "addr:postcode": "793122",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "ICAR Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517055,
+      "lat": 25.4362133,
+      "lon": 92.2052507,
+      "tags": {
+        "addr:district": "West Jaintia Hills",
+        "addr:full": "Jowai, Meghalaya",
+        "addr:postcode": "793150",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Civil Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517063,
+      "lat": 25.4682013,
+      "lon": 92.2876219,
+      "tags": {
+        "addr:district": "West Jaintia Hills",
+        "addr:full": "HynniewMer, Meghalaya",
+        "addr:postcode": "793150",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Nazareth Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517076,
+      "lat": 25.4692031,
+      "lon": 92.2391729,
+      "tags": {
+        "addr:city": "Jowai",
+        "addr:district": "West Jaintia Hills",
+        "addr:full": "Jowai, Meghalaya",
+        "addr:postcode": "793150",
+        "addr:state": "Meghalaya",
+        "addr:street": "Sabahmuswang Elaka",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Woodland  WK Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517077,
+      "lat": 25.5752156,
+      "lon": 91.8714508,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Upper Mawprem, Garikhana, Shillong, Meghalaya",
+        "addr:postcode": "793002",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Jiban Ram Goenka Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517078,
+      "lat": 25.5721912,
+      "lon": 91.8867398,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Secretariat Hills, Shillong, Meghalaya",
+        "addr:postcode": "793001",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "CHGS Wellness Centre",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7577517079,
+      "lat": 25.5647415,
+      "lon": 91.9031082,
+      "tags": {
+        "addr:district": "East Khasi Hills",
+        "addr:full": "Nongrimbah, Shillong, Meghalaya",
+        "addr:postcode": "793014",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "John Roberts Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580173,
+      "lat": 25.5165354,
+      "lon": 90.1671545,
+      "tags": {
+        "addr:district": "West Garo Hills",
+        "addr:full": "Tura, Meghalaya",
+        "addr:postcode": "794101",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Danak Samguri Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580175,
+      "lat": 25.4940162,
+      "lon": 89.9432399,
+      "tags": {
+        "addr:district": "South West Garo Hills",
+        "addr:full": "Betasing, Meghalaya",
+        "addr:postcode": "794115",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Civil Hospital, Ampati",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580176,
+      "lat": 25.6520385,
+      "lon": 90.3347324,
+      "tags": {
+        "addr:district": "West Garo Hills",
+        "addr:full": "Jengjal, Meghalaya",
+        "addr:postcode": "794109",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Adventis Mission Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580179,
+      "lat": 25.49798,
+      "lon": 90.618645,
+      "tags": {
+        "addr:district": "East Garo Hills",
+        "addr:full": "Sampalgre, Meghalaya",
+        "addr:postcode": "794111",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Sampalgre Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580180,
+      "lat": 25.5201568,
+      "lon": 90.1767347,
+      "tags": {
+        "addr:district": "West Garo Hills",
+        "addr:full": "Tura, Meghalaya",
+        "addr:postcode": "794101",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Maternity and Child Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580181,
+      "lat": 25.5227112,
+      "lon": 90.18235,
+      "tags": {
+        "addr:district": "West Garo Hills",
+        "addr:full": "Tura, Meghalaya",
+        "addr:postcode": "794101",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "CRPF Composite Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580182,
+      "lat": 25.912899,
+      "lon": 90.628695,
+      "tags": {
+        "addr:district": "North Garo Hills",
+        "addr:full": "Gangdobi Road, Mendipathar, Meghalaya",
+        "addr:postcode": "794112",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Gangdobi Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580191,
+      "lat": 25.5212405,
+      "lon": 90.2171856,
+      "tags": {
+        "addr:district": "West Garo Hills",
+        "addr:full": "Lower Wadanang, Tura, Meghalaya",
+        "addr:postcode": "794001",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "T.B. Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580192,
+      "lat": 25.5079447,
+      "lon": 91.2738426,
+      "tags": {
+        "addr:district": "West Khasi Hills",
+        "addr:full": "Shnong , Nongstoin, Meghalaya",
+        "addr:postcode": "793119",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "T.B. Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579580193,
+      "lat": 25.9165611,
+      "lon": 90.6493529,
+      "tags": {
+        "addr:district": "North Garo Hills",
+        "addr:full": "Salpara, Mendipathar, Meghalaya",
+        "addr:postcode": "794112",
+        "addr:state": "Meghalaya",
+        "amenity": "hospital",
+        "name": "Civil Hospital",
+        "source": "Local Knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10895824519,
+      "lat": 25.5711799,
+      "lon": 91.8720444,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Military Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11353484755,
+      "lat": 25.5156079,
+      "lon": 90.1858984,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "District PHE Lab, Tura"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11357651010,
+      "lat": 25.5150175,
+      "lon": 90.2038069,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Tura Civil Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934315725,
+      "lat": 25.5182853,
+      "lon": 90.2189168,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Tura Christian Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12462035169,
+      "lat": 25.1699082,
+      "lon": 91.6919619,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Ichamati Community Health Center"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22827106,
+      "nodes": [
+        4583102365,
+        13653445919,
+        2492482087,
+        2492482086,
+        2492482085,
+        2492482084,
+        2492482083,
+        2492482082,
+        2492482081,
+        2492482080,
+        2492482079,
+        2492482078,
+        2492482077,
+        2492482063,
+        2492482058,
+        2492482040,
+        2492481992,
+        2492481965,
+        2492481960,
+        2492481970,
+        2492481985,
+        2492482042,
+        2492482059,
+        2492482061,
+        2492482069,
+        2492482071,
+        9818906672,
+        2492482074,
+        9818906673,
+        2492482075,
+        2492482076,
+        2492482073,
+        2492482072,
+        2492482070,
+        2492482065,
+        2492482066,
+        2492482067,
+        2492482068,
+        2492482064,
+        2492482062,
+        2492482060,
+        2492482055,
+        2492482048,
+        2492482036,
+        2492482044,
+        2492482049,
+        2492482046,
+        2492482033,
+        2492482006,
+        2492482008,
+        2492482018,
+        2492482050,
+        2492482053,
+        2492482051,
+        2492482020,
+        2492481995,
+        2492481994,
+        2492482000,
+        2492482022,
+        2492482052,
+        2492482056,
+        2492482057,
+        2492482054,
+        2492482038,
+        2492482002,
+        2492481988,
+        2492481980,
+        2492481967,
+        2492481947,
+        2492481932,
+        2492481943,
+        2492481954,
+        2492481962,
+        2492481976,
+        2492481990,
+        2492482011,
+        2492482024,
+        2492482026,
+        2492482029,
+        2492482031,
+        2492482004,
+        2492481997,
+        2492481986,
+        2492481971,
+        9818906670,
+        2492481934,
+        9818906671,
+        2492481905,
+        2492481908,
+        2492481977,
+        2492481981,
+        2492481982,
+        2492481983,
+        2492481984,
+        2492481963,
+        2492481935,
+        2492481937,
+        2492481939,
+        2492481949,
+        2492481972,
+        2492481974,
+        2492481968,
+        2492481956,
+        9818906668,
+        2492481924,
+        9818906669,
+        2492481926,
+        2492481944,
+        2492481958,
+        2492481964,
+        2492481969,
+        2492481975,
+        2492481978,
+        9818906667,
+        9818906666,
+        2492481991,
+        2492481989,
+        2492481987,
+        2492481979,
+        2492481945,
+        2492481941,
+        2492481920,
+        2492481917,
+        2492481919,
+        2492481928,
+        2492481951,
+        2492481959,
+        2492481953,
+        2492481930,
+        2492481914,
+        2492481899,
+        2492481895,
+        2492481891,
+        2492481878,
+        2492481872,
+        2492481865,
+        2492481869,
+        2492481884,
+        2492481887,
+        2492481881,
+        2492481875,
+        2492481862,
+        2492481860,
+        2492481857,
+        2492481854,
+        2492481851,
+        4583102690,
+        2492481848,
+        2492481845,
+        2492481841,
+        2492481838,
+        2492481836,
+        2492481833,
+        2492481830,
+        2492481827,
+        2492481824,
+        2492481821,
+        2492481810,
+        2492481807,
+        2492481804,
+        2492481800,
+        2492481797,
+        1811211110,
+        2882203244,
+        2882203235,
+        2882203230,
+        2882203227,
+        13475352193,
+        2882203228,
+        4021650705,
+        2882203233,
+        2882203238,
+        2882203248,
+        2882203254,
+        2882203258,
+        2882203256,
+        2882203251,
+        2882203246,
+        2882203237,
+        2882203236,
+        2882203239,
+        2882203243,
+        2882203241,
+        2882203242,
+        2882203234,
+        2882203229,
+        2882203232,
+        2882203231,
+        2882203225,
+        2882203222,
+        2882203220,
+        2882203223,
+        2882203226,
+        2882203240,
+        2882203249,
+        2882203260,
+        2882203269,
+        2882203296,
+        2882204805,
+        2882204838,
+        9049851586,
+        9818906665,
+        9049851585,
+        9049851587,
+        9049851588,
+        2882204842,
+        2882204850,
+        2882204860,
+        2882204874,
+        2882204879,
+        2882204889,
+        2882204908,
+        2882204920,
+        2882204927,
+        2882204928,
+        2882204931,
+        2882204932,
+        2882204936,
+        2882204940,
+        2882204950,
+        2882204957,
+        2882204962,
+        2882204968,
+        2882204969,
+        2882204960,
+        2882204951,
+        2882204943,
+        2882204938,
+        2882204939,
+        2882204941,
+        2882204942,
+        2882204944,
+        2882204952,
+        2882204956,
+        2882204961,
+        2882204966,
+        2882204971,
+        2882204972,
+        2882204975,
+        2882204977,
+        2882204978,
+        2882204974,
+        2882204973,
+        2882204967,
+        2882204963,
+        2882204964,
+        2882204965,
+        2882204979,
+        2882204983,
+        2882204993,
+        2882205008,
+        2882205012,
+        2882205016,
+        2882205021,
+        2882205024,
+        2882205028,
+        2882205031,
+        2882205038,
+        2882205047,
+        2882205054,
+        2882205057,
+        2882205061,
+        2882205064,
+        2882205070,
+        2882205074,
+        9818906660,
+        2882205063,
+        2882205050,
+        9818906661,
+        2882205048,
+        9818906663,
+        9818906664,
+        9818906662,
+        2882205068,
+        2882205128,
+        2882205168,
+        2882205192,
+        2882205233,
+        2882205241,
+        2882205255,
+        2882205272,
+        2882205270,
+        2882205266,
+        2882205246,
+        2882205181,
+        2882205174,
+        2882205164,
+        2882205156,
+        2882205151,
+        2882205153,
+        2882205154,
+        2882205152,
+        2882205158,
+        2882205157,
+        2882205155,
+        2882205148,
+        2882205136,
+        2882205132,
+        2882205121,
+        2882205111,
+        2882205108,
+        2882205094,
+        2882205091,
+        2882205089,
+        2882205086,
+        2882205087,
+        2882205092,
+        2882205097,
+        2882205102,
+        2882205107,
+        2882205106,
+        2882205103,
+        2882205098,
+        2882205095,
+        2882205100,
+        2882205104,
+        2882205115,
+        2882205118,
+        2882205120,
+        2882205129,
+        2882205142,
+        2882205165,
+        2882205175,
+        2882205185,
+        2882205194,
+        2882205201,
+        2882205204,
+        2882205200,
+        2882205195,
+        2882205183,
+        2882205176,
+        2882205166,
+        2882205159,
+        2882205149,
+        2882205144,
+        2882205145,
+        2882205161,
+        2882205169,
+        2882205189,
+        2882205214,
+        2882205230,
+        2882205239,
+        2882205269,
+        2882205286,
+        2882205299,
+        2882205305,
+        2882205311,
+        2882205315,
+        2882205309,
+        2882205303,
+        2882205295,
+        2882205285,
+        2882205280,
+        2882205271,
+        2882205268,
+        2882205267,
+        2882205262,
+        2882205253,
+        2882205243,
+        2882205236,
+        2882205227,
+        2882205222,
+        2882205223,
+        2882205220,
+        2882205218,
+        2882205213,
+        2882205205,
+        2882205186,
+        2882205180,
+        2882205171,
+        2882205172,
+        2882205178,
+        2882205191,
+        2882205224,
+        2882205231,
+        2882205234,
+        2882205229,
+        2882205228,
+        2882205219,
+        9818906659,
+        2882205212,
+        2882205206,
+        2882205198,
+        2882205184,
+        2882205170,
+        2882205162,
+        2882205139,
+        2882205130,
+        2882205117,
+        2882205096,
+        2882205079,
+        2882205065,
+        2882205062,
+        2882205066,
+        2882205067,
+        2882205073,
+        2882205071,
+        2882205058,
+        2882205046,
+        2882205041,
+        2882205040,
+        2882205049,
+        2882205053,
+        2882205060,
+        2882205083,
+        2882205109,
+        2882205116,
+        2882205122,
+        2882205125,
+        2882205119,
+        2882205110,
+        2882205090,
+        2882205078,
+        2882205080,
+        2882205105,
+        13476637149,
+        13476637148,
+        2882205123,
+        13476637147,
+        2882205150,
+        2882205203,
+        13476637146,
+        2882205217,
+        13476637145
+      ],
+      "tags": {
+        "highway": "trunk",
+        "lanes": "2",
+        "ref": "NH106",
+        "ref:old": "NH 44E"
+      }
+    },
+    {
+      "type": "way",
+      "id": 22827160,
+      "nodes": [
+        2501933081,
+        2501933078,
+        2501933077,
+        2501933090,
+        2501933093,
+        2501933094,
+        2501933102,
+        2501933108,
+        2501933122,
+        2501933121,
+        2501933119,
+        2501933118,
+        2501933114,
+        2501933113,
+        2501933117,
+        2501933120,
+        2501933112,
+        2501933104,
+        2501933099,
+        2501933087,
+        9827072641,
+        9827072639,
+        2501933071,
+        9827072640,
+        2501933062,
+        2501933061,
+        2501933060,
+        2501933059,
+        2501933058,
+        2501933056,
+        2501933055,
+        2501933054,
+        2501933053,
+        2501933057,
+        11350592125,
+        12353507341,
+        2501933066,
+        2501933080,
+        2501933084,
+        2501933085,
+        2501933083,
+        2501933075,
+        2501933069,
+        2501933064,
+        2501933063,
+        2501933067,
+        2501933073,
+        2501933072,
+        2501933068,
+        2501933065,
+        2501933070,
+        2501933074
+      ],
+      "tags": {
+        "highway": "trunk",
+        "ref": "NH 127B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2466232623,
+      "lat": 25.1811341,
+      "lon": 90.3937015
+    },
+    {
+      "type": "node",
+      "id": 2466232627,
+      "lat": 25.1812433,
+      "lon": 90.3933677
+    },
+    {
+      "type": "node",
+      "id": 2466232632,
+      "lat": 25.1814762,
+      "lon": 90.3930058
+    },
+    {
+      "type": "node",
+      "id": 2466232637,
+      "lat": 25.1816437,
+      "lon": 90.3924669
+    },
+    {
+      "type": "node",
+      "id": 2466232643,
+      "lat": 25.1817965,
+      "lon": 90.392105
+    },
+    {
+      "type": "node",
+      "id": 2466232581,
+      "lat": 25.1777168,
+      "lon": 90.4002325
+    },
+    {
+      "type": "node",
+      "id": 2466232585,
+      "lat": 25.1781025,
+      "lon": 90.3994081
+    },
+    {
+      "type": "node",
+      "id": 2466232592,
+      "lat": 25.1789178,
+      "lon": 90.3978598
+    },
+    {
+      "type": "node",
+      "id": 2466232602,
+      "lat": 25.1793145,
+      "lon": 90.3970072
+    },
+    {
+      "type": "node",
+      "id": 2466232607,
+      "lat": 25.1797912,
+      "lon": 90.3959857
+    },
+    {
+      "type": "node",
+      "id": 2466232612,
+      "lat": 25.1802098,
+      "lon": 90.395294
+    },
+    {
+      "type": "node",
+      "id": 2466232621,
+      "lat": 25.1809995,
+      "lon": 90.3940313
+    },
+    {
+      "type": "node",
+      "id": 2466232521,
+      "lat": 25.1753802,
+      "lon": 90.4063291
+    },
+    {
+      "type": "node",
+      "id": 2466232484,
+      "lat": 25.1728301,
+      "lon": 90.4130263
+    },
+    {
+      "type": "node",
+      "id": 2466232486,
+      "lat": 25.1728774,
+      "lon": 90.4123587
+    },
+    {
+      "type": "node",
+      "id": 2466232488,
+      "lat": 25.1729466,
+      "lon": 90.4119164
+    },
+    {
+      "type": "node",
+      "id": 2466232490,
+      "lat": 25.173205,
+      "lon": 90.411285
+    },
+    {
+      "type": "node",
+      "id": 2466232491,
+      "lat": 25.1734779,
+      "lon": 90.4103802
+    },
+    {
+      "type": "node",
+      "id": 2466232493,
+      "lat": 25.1737582,
+      "lon": 90.4096322
+    },
+    {
+      "type": "node",
+      "id": 2466232494,
+      "lat": 25.1738528,
+      "lon": 90.4092662
+    },
+    {
+      "type": "node",
+      "id": 2466232495,
+      "lat": 25.1738819,
+      "lon": 90.4089163
+    },
+    {
+      "type": "node",
+      "id": 2466232496,
+      "lat": 25.1739438,
+      "lon": 90.4087313
+    },
+    {
+      "type": "node",
+      "id": 2466232497,
+      "lat": 25.1740785,
+      "lon": 90.4086228
+    },
+    {
+      "type": "node",
+      "id": 2466232498,
+      "lat": 25.1742407,
+      "lon": 90.4085615
+    },
+    {
+      "type": "node",
+      "id": 2466232500,
+      "lat": 25.1745464,
+      "lon": 90.4083872
+    },
+    {
+      "type": "node",
+      "id": 2466232502,
+      "lat": 25.1747105,
+      "lon": 90.4082313
+    },
+    {
+      "type": "node",
+      "id": 2466232503,
+      "lat": 25.1748088,
+      "lon": 90.4081026
+    },
+    {
+      "type": "node",
+      "id": 2466232506,
+      "lat": 25.174918,
+      "lon": 90.4076602
+    },
+    {
+      "type": "node",
+      "id": 2466232511,
+      "lat": 25.1751546,
+      "lon": 90.4070972
+    },
+    {
+      "type": "node",
+      "id": 3702935506,
+      "lat": 25.173985,
+      "lon": 90.4086981
+    },
+    {
+      "type": "node",
+      "id": 2466232527,
+      "lat": 25.1757442,
+      "lon": 90.4055972
+    },
+    {
+      "type": "node",
+      "id": 2466232531,
+      "lat": 25.1760608,
+      "lon": 90.4048492
+    },
+    {
+      "type": "node",
+      "id": 2466232537,
+      "lat": 25.1765267,
+      "lon": 90.4040569
+    },
+    {
+      "type": "node",
+      "id": 2466232563,
+      "lat": 25.1771381,
+      "lon": 90.4031601
+    },
+    {
+      "type": "node",
+      "id": 2466232567,
+      "lat": 25.1773419,
+      "lon": 90.4026574
+    },
+    {
+      "type": "node",
+      "id": 2466232573,
+      "lat": 25.1773747,
+      "lon": 90.4022794
+    },
+    {
+      "type": "node",
+      "id": 2466232577,
+      "lat": 25.1774329,
+      "lon": 90.4011735
+    },
+    {
+      "type": "node",
+      "id": 2466232579,
+      "lat": 25.1775348,
+      "lon": 90.4006829
+    },
+    {
+      "type": "node",
+      "id": 2466232360,
+      "lat": 25.1665844,
+      "lon": 90.4264019
+    },
+    {
+      "type": "node",
+      "id": 2466232365,
+      "lat": 25.1667227,
+      "lon": 90.4262209
+    },
+    {
+      "type": "node",
+      "id": 2466232367,
+      "lat": 25.1668537,
+      "lon": 90.4257866
+    },
+    {
+      "type": "node",
+      "id": 2466232371,
+      "lat": 25.1670612,
+      "lon": 90.4251753
+    },
+    {
+      "type": "node",
+      "id": 2466232377,
+      "lat": 25.1675016,
+      "lon": 90.4241538
+    },
+    {
+      "type": "node",
+      "id": 2466232381,
+      "lat": 25.1677491,
+      "lon": 90.4235104
+    },
+    {
+      "type": "node",
+      "id": 2466232386,
+      "lat": 25.1679129,
+      "lon": 90.422694
+    },
+    {
+      "type": "node",
+      "id": 2466232388,
+      "lat": 25.167953,
+      "lon": 90.422509
+    },
+    {
+      "type": "node",
+      "id": 2466232395,
+      "lat": 25.1681349,
+      "lon": 90.4222718
+    },
+    {
+      "type": "node",
+      "id": 2466232401,
+      "lat": 25.1683024,
+      "lon": 90.4219219
+    },
+    {
+      "type": "node",
+      "id": 2466232426,
+      "lat": 25.1686263,
+      "lon": 90.4214514
+    },
+    {
+      "type": "node",
+      "id": 2466232445,
+      "lat": 25.1690558,
+      "lon": 90.4206069
+    }
+  ]
+}
